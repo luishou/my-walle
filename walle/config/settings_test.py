@@ -22,7 +22,7 @@ class TestConfig(Config):
     # 服务启动 @TODO
     # HOST 修改为与 nginx server_name 一致.
     # 后续在web hooks与通知中用到此域名.
-    HOST = 'admin.walle-web.io'
+    HOST = 'walle.luishou.com'
     PORT = 5000
     # https True, http False
     SSL = False
